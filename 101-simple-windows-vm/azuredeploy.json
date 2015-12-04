@@ -9,7 +9,7 @@
       }
     },
     "adminUsername": {
-      "type": "string",
+      "type": "P@ssw0rd!",
       "metadata": {
         "description": "Username for the Virtual Machine."
       }
